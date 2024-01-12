@@ -1,0 +1,28 @@
+{
+    "cds": [
+        {
+            "titolo": "Album 1",
+            "autore": "Artista 1"
+        },
+        {
+            "titolo": "Album 2",
+            "autore": "Artista 2"
+        },
+        {
+            "titolo": "Album 3",
+            "autore": "Artista 3"
+        },
+        {
+            "titolo": "Album 4",
+            "autore": "Artista 4"
+        },
+        {
+            "titolo": "Album 5",
+            "autore": "Artista 5"
+        },
+        {
+            "titolo": "Album 6",
+            "autore": "Artista 6"
+        }
+    ]
+}
